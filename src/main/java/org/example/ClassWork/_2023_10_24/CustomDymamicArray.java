@@ -1,3 +1,4 @@
+/*
 package orgc.example.ClassWork._2023_10_24;
 
 public class CustomDymamicArray {
@@ -62,3 +63,4 @@ public class CustomDymamicArray {
         return ;
     }
 }
+*/
