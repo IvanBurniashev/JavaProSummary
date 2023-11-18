@@ -1,6 +1,5 @@
 package org.example.HomeWork._2023_09_08.lesson20230908;
 
-import de.telran.lesson20230901.Cat;
 
 public class Park {
 
